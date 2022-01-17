@@ -17,7 +17,7 @@ works via environment variables like this:
 
 ```
 export AZURE_TENANT_ID="xxxxxx-yyyy-zzzz-xxxx-xxxxxxxxxx"
-#export AZURE_CLIENT_ID="xxxxxx-yyyy-zzzz-xxxx-xxxxxxxxxx"
-#export AZURE_CLIENT_SECRET="a-very-secure-password"
-#export AZURE_SUBSCRIPTION_ID="xxxxxx-yyyy-zzzz-xxxx-xxxxxxxxxx"
+export AZURE_CLIENT_ID="xxxxxx-yyyy-zzzz-xxxx-xxxxxxxxxx"
+export AZURE_CLIENT_SECRET="a-very-secure-password"
+export AZURE_SUBSCRIPTION_ID="xxxxxx-yyyy-zzzz-xxxx-xxxxxxxxxx"
 ```
